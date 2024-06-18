@@ -5,113 +5,134 @@ Welcome to My Python Code, a beginner-friendly guide to help you practice and ma
 
 # Learning Python
 
-## Table of Contents
+## Introduction to Python
+- Overview of Python
+- Installing Python
+- Setting Up Your Environment
 
-- [Introduction to Python](#introduction-to-python)
-    - [Overview of Python](#overview-of-python)
-    - [Installing Python](#installing-python)
-    - [Setting Up Your Environment](#setting-up-your-environment)
-- [Basic Syntax and Data Types](#basic-syntax-and-data-types)
-    - [Variables and Data Types](#variables-and-data-types)
-    - [Basic Operators](#basic-operators)
-    - [Comments and Documentation](#comments-and-documentation)
-- [Control Structures](#control-structures)
-    - [If-Else Statements](#if-else-statements)
-    - [For Loops](#for-loops)
-    - [While Loops](#while-loops)
-    - [Break, Continue, and Pass](#break-continue-and-pass)
-- [Functions](#functions)
-    - [Defining Functions](#defining-functions)
-    - [Function Arguments](#function-arguments)
-    - [Return Values](#return-values)
-    - [Lambda Functions](#lambda-functions)
-    - [Scope and Lifetime of Variables](#scope-and-lifetime-of-variables)
-- [Data Structures](#data-structures)
-    - [Lists](#lists)
-    - [Tuples](#tuples)
-    - [Dictionaries](#dictionaries)
-    - [Sets](#sets)
-    - [List Comprehensions](#list-comprehensions)
-- [String Manipulation](#string-manipulation)
-    - [String Methods](#string-methods)
-    - [String Formatting](#string-formatting)
-    - [Regular Expressions](#regular-expressions)
-- [File Handling](#file-handling)
-    - [Reading and Writing Files](#reading-and-writing-files)
-    - [Working with CSV Files](#working-with-csv-files)
-    - [File Context Managers](#file-context-managers)
-- [Error Handling](#error-handling)
-    - [Exceptions](#exceptions)
-    - [Try-Except Blocks](#try-except-blocks)
-    - [Finally Clause](#finally-clause)
-    - [Custom Exceptions](#custom-exceptions)
-- [Modules and Packages](#modules-and-packages)
-    - [Importing Modules](#importing-modules)
-    - [Creating and Using Packages](#creating-and-using-packages)
-    - [Standard Library Overview](#standard-library-overview)
-- [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)
-    - [Classes and Objects](#classes-and-objects)
-    - [Inheritance](#inheritance)
-    - [Polymorphism](#polymorphism)
-    - [Encapsulation](#encapsulation)
-    - [Magic Methods](#magic-methods)
-- [Working with Libraries](#working-with-libraries)
-    - [NumPy for Numerical Computing](#numpy-for-numerical-computing)
-    - [Pandas for Data Analysis](#pandas-for-data-analysis)
-    - [Matplotlib for Data Visualization](#matplotlib-for-data-visualization)
-    - [Requests for HTTP Requests](#requests-for-http-requests)
-- [Web Development](#web-development)
-    - [Flask Basics](#flask-basics)
-    - [Django Basics](#django-basics)
-    - [Building RESTful APIs](#building-restful-apis)
-- [Data Analysis and Visualization](#data-analysis-and-visualization)
-    - [Using Pandas for Data Manipulation](#using-pandas-for-data-manipulation)
-    - [Visualizing Data with Matplotlib](#visualizing-data-with-matplotlib)
-    - [Advanced Visualization with Seaborn](#advanced-visualization-with-seaborn)
-- [Database Interaction](#database-interaction)
-    - [Connecting to Databases with SQLite](#connecting-to-databases-with-sqlite)
-    - [Using SQLAlchemy for ORM](#using-sqlalchemy-for-orm)
-    - [CRUD Operations](#crud-operations)
-- [Testing and Debugging](#testing-and-debugging)
-    - [Writing Unit Tests with unittest](#writing-unit-tests-with-unittest)
-    - [Debugging Code with pdb](#debugging-code-with-pdb)
-    - [Using PyTest for Testing](#using-pytest-for-testing)
-- [Advanced Topics](#advanced-topics)
-    - [Decorators](#decorators)
-    - [Generators](#generators)
-    - [Context Managers](#context-managers)
-    - [Metaclasses](#metaclasses)
-- [Concurrency and Parallelism](#concurrency-and-parallelism)
-    - [Threading](#threading)
-    - [Multiprocessing](#multiprocessing)
-    - [Asyncio for Asynchronous Programming](#asyncio-for-asynchronous-programming)
-- [Network Programming](#network-programming)
-    - [Sockets](#sockets)
-    - [Building Client-Server Applications](#building-client-server-applications)
-    - [Web Scraping with BeautifulSoup](#web-scraping-with-beautifulsoup)
-- [GUI Development](#gui-development)
-    - [Tkinter Basics](#tkinter-basics)
-    - [Building Simple GUIs](#building-simple-guis)
-    - [Event Handling](#event-handling)
-- [Scientific Computing](#scientific-computing)
-    - [Using SciPy for Scientific Calculations](#using-scipy-for-scientific-calculations)
-    - [Jupyter Notebooks for Interactive Computing](#jupyter-notebooks-for-interactive-computing)
-- [Machine Learning and AI](#machine-learning-and-ai)
-    - [Introduction to Machine Learning](#introduction-to-machine-learning)
-    - [Using Scikit-Learn](#using-scikit-learn)
-    - [Basics of TensorFlow and Keras](#basics-of-tensorflow-and-keras)
-- [Version Control with Git](#version-control-with-git)
-    - [Basic Git Commands](#basic-git-commands)
-    - [Using GitHub](#using-github)
-    - [Collaborating on Projects](#collaborating-on-projects)
-- [Deployment and Packaging](#deployment-and-packaging)
-    - [Creating Executable Scripts](#creating-executable-scripts)
-    - [Packaging with setuptools](#packaging-with-setuptools)
-    - [Deploying Applications](#deploying-applications)
-- [Final Projects and Case Studies](#final-projects-and-case-studies)
-    - [Building a Web Application](#building-a-web-application)
-    - [Data Analysis Project](#data-analysis-project)
-    - [Machine Learning Project](#machine-learning-project)
+## Basic Syntax and Data Types
+- Variables and Data Types
+- Basic Operators
+- Comments and Documentation
+
+## Control Structures
+- If-Else Statements
+- For Loops
+- While Loops
+- Break, Continue, and Pass
+
+## Functions
+- Defining Functions
+- Function Arguments
+- Return Values
+- Lambda Functions
+- Scope and Lifetime of Variables
+
+## Data Structures
+- Lists
+- Tuples
+- Dictionaries
+- Sets
+- List Comprehensions
+
+## String Manipulation
+- String Methods
+- String Formatting
+- Regular Expressions
+
+## File Handling
+- Reading and Writing Files
+- Working with CSV Files
+- File Context Managers
+
+## Error Handling
+- Exceptions
+- Try-Except Blocks
+- Finally Clause
+- Custom Exceptions
+
+## Modules and Packages
+- Importing Modules
+- Creating and Using Packages
+- Standard Library Overview
+
+## Object-Oriented Programming OOP
+- Classes and Objects
+- Inheritance
+- Polymorphism
+- Encapsulation
+- Magic Methods
+
+## Working with Libraries
+- NumPy for Numerical Computing
+- Pandas for Data Analysis
+- Matplotlib for Data Visualization
+- Requests for HTTP Requests
+
+## Web Development
+- Flask Basics
+- Django Basics
+- Building RESTful APIs
+
+## Data Analysis and Visualization
+- Using Pandas for Data Manipulation
+- Visualizing Data with Matplotlib
+- Advanced Visualization with Seaborn
+
+## Database Interaction
+- Connecting to Databases with SQLite
+- Using SQLAlchemy for ORM
+- CRUD Operations
+
+## Testing and Debugging
+- Writing Unit Tests with unittest
+- Debugging Code with pdb
+- Using PyTest for Testing
+
+## Advanced Topics
+- Decorators
+- Generators
+- Context Managers
+- Metaclasses
+
+## Concurrency and Parallelism
+- Threading
+- Multiprocessing
+- Asyncio for Asynchronous Programming
+
+## Network Programming
+- Sockets
+- Building Client-Server Applications
+- Web Scraping with BeautifulSoup
+
+## GUI Development
+- Tkinter Basics
+- Building Simple GUIs
+- Event Handling
+
+## Scientific Computing
+- Using SciPy for Scientific Calculations
+- Jupyter Notebooks for Interactive Computing
+
+## Machine Learning and AI
+- Introduction to Machine Learning
+- Using Scikit-Learn
+- Basics of TensorFlow and Keras
+
+## Version Control with Git
+- Basic Git Commands
+- Using GitHub
+- Collaborating on Projects
+
+## Deployment and Packaging
+- Creating Executable Scripts
+- Packaging with setuptools
+- Deploying Applications
+
+## Final Projects and Case Studies
+- Building a Web Application
+- Data Analysis Project
+- Machine Learning Project
 
 ---
 
